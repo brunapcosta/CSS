@@ -1,0 +1,19 @@
+/*
+*{
+    background: blue;
+}
+*/
+h1 {
+    color: red;
+    background: black;
+}
+
+P{
+    color: blue;
+    font-size: 20px;
+}
+
+button{
+    background: green;
+    border-color: darkgreen;
+}

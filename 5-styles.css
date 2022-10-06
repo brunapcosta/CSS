@@ -1,0 +1,8 @@
+.texto, p, #BOT{
+    color: red;
+    font-weight: bold;
+}
+.botao{
+    background: blue;
+    font-weight: bold;
+}
