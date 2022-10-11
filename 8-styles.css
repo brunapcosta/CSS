@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200;300&display=swap');
+
+h1{
+    color: red;
+    font-size: 64px;
+    font-weight: bolder;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-style: italic;
+    text-shadow: 10px 10px 15px #FF0000; /* SOMBRA DO TEXTO */
+}
+
+P{
+    color: blue; /*TROCA A COR DO TEXTO */
+    font-size: 30px; /* TROCA O TAMANHO DO TEXTO */
+    font-weight: lighter;
+    font-family: 'Gemunu Libre', sans-serif;
+    line-height: 60px; /* ESPAÇO ENTRE AS LINHAS */
+    letter-spacing: normal; /*ESPAÇO ENTRE AS LETRAS */
+    word-spacing: 15px; /*ESPAÇO ENTRE AS PALAVRAS */
+    text-align: center; /* ALINHAMENTO DO TEXTO */
+    text-transform: capitalize; /* SE OS TEXTO VAI SER TODO EM LETRA MAIUSCULA, MINUSCULA OU MESCLADA */
+    text-decoration: underline; /* SUBLINHADO OU SOBRE A LINHA */
+}
