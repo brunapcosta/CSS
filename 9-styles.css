@@ -1,0 +1,25 @@
+.box {
+    width: 50px;
+    height: 50px;
+    background: #FF1493;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-right: 10px;
+    margin-left: 5px;
+}
+
+/*
+.box-2{
+    width: 50px;
+    height: 50px;
+    background: #9932cc;
+    margin: 50px;
+}
+
+margin: top, right, bottom, left;
+padding: top, right, bottom, left;
+margin: 20px 20px 30px (top, bottom, right + left);
+padding: 20px 20px 30px (top, bottom, right + left);
+margin: 20px 30px (top + bottom, right + left);
+padding: 20px 30px (top + bottom, right + left).
+*/
